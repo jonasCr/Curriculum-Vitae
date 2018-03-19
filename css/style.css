@@ -1,0 +1,174 @@
+/*Elementos generales*/
+@import url('https://fonts.googleapis.com/css?family=Patua+One|Source+Sans+Pro:400,700');
+
+body {
+	/*background: url(../img/background.png);*/
+	background-position: center;
+	background-size: cover;
+	background: #8ba9cc;
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-family: 'Patua One', cursive;
+}
+
+p {
+	text-align: justify;
+	font-size: 18px;
+
+}
+
+h1 {
+	font-size: 34px;
+	letter-spacing: 5px;
+}
+
+h2 {
+	font-size: 23px;
+	letter-spacing: 5px;
+}
+
+h3 {
+	font-size: 34px;
+	margin-bottom: 15px;
+	letter-spacing: 1px;
+}
+
+h4 {
+	font-size: 18px;
+	text-transform: uppercase;
+	margin-bottom: 0;
+}
+
+i {
+	color: #2f2f4c;
+}
+
+a.enlaces-block {
+	display: block;
+}
+
+a.enlaces-block:hover {
+	text-decoration: none;
+	color: #6c7094 !important;
+}
+
+.container {
+	margin-top: 2em;
+	margin-bottom: 2em;
+	background: #e3e3e3;
+	box-shadow: 5px 6px 20px 4px rgba(0, 0, 0, 0.49);
+}
+
+.col-inner {
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 1em;
+	padding-right: 1em;
+}
+
+/*Parte Izquierda:*/
+#left {
+	background: #38a5de;
+	padding: 0;
+	color: #fff;
+	box-shadow: 3px 0px 20px 4px rgba(0, 0, 0, 0.49);
+}
+
+#me {
+	background: url(../img/perfil.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 0;
+	height: 320px;
+	position: relative;
+}
+
+#me .texto {
+	position: absolute;
+	bottom: 0px;
+	text-align: right;
+	width: 100%;
+	padding: 5px;
+}
+
+.border-down {
+	border-bottom: 1px solid #fff;
+}
+
+
+#left a {
+	color: #fff;
+}
+
+.progress-bar {
+	height: 5px;
+	background: #3F51B5;
+	border-radius: 0.25em;
+	margin-top: 8px;
+	margin-bottom: 15px;
+}
+
+.progress-html,
+.progress-css,
+.progress-js,
+.progress-wp,
+.progress-fr,
+.progress-en,
+.progress-es {
+	height: 5px;
+	background: #c4c6da;
+	border-radius: 0.25em;
+	width: 0%;
+}
+
+/*Parte derecha*/
+#right, #right a {
+	color: #404040;
+}
+
+a.btn-custom {
+	color: #38a5de !important;
+	background-color: transparent;
+	background-image: none;
+	border-color: #38a5de;
+}
+
+a.btn-custom:hover {
+	color: #fff !important;
+	background-color: #38a5de;
+	border-color: #38a5de;
+}
+
+.box {
+	background: #fff;
+	margin: 1em;
+	border-radius: 0.25em;
+	box-shadow: 5px 6px 20px 4px rgba(0, 0, 0, 0.49);
+}
+
+.exp-cursos {
+	margin-bottom: 20px;
+}
+
+.exp-cursos p {
+	margin-bottom: 5px;
+	margin-top: 0;
+}
+
+.exp-cursos p.fechas {
+	color: #38a5de;
+	margin-top: 2px;
+	margin-bottom: 7px;
+}
+
+a.enlaces-block {
+
+}
+
