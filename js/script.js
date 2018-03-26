@@ -14,7 +14,7 @@ $(document).ready(function() {
 	});
 
 	$(window).scroll(function() {
-		documentScroll=$(document).scrollTop()+700;
+		documentScroll=$(document).scrollTop();
 		if (documentScroll > cajaIdiomas.offset().top) {
 			$('.progress-fr').animate({width: '100%'}, 2000);
 			$('.progress-en').animate({width: '70%'}, 2000);
