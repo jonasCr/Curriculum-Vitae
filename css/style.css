@@ -121,6 +121,11 @@ a.enlaces-block:hover {
 .progress-wp,
 .progress-fr,
 .progress-en,
+.progress-angular,
+.progress-flutter,
+.progress-vuejs,
+.progress-c,
+.progress-dart,
 .progress-es {
 	height: 5px;
 	background: #c4c6da;
@@ -168,7 +173,12 @@ a.btn-custom:hover {
 	margin-bottom: 7px;
 }
 
-a.enlaces-block {
+.img-preview{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+}
 
+.img-vertical{
+	/* max-width: 150px; */
 }
 
