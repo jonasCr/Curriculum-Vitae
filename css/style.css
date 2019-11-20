@@ -63,7 +63,7 @@ a.enlaces-block:hover {
 	margin-top: 2em;
 	margin-bottom: 2em;
 	background: #e3e3e3;
-	box-shadow: 5px 6px 20px 4px rgba(0, 0, 0, 0.49);
+	/* box-shadow: 5px 6px 20px 4px rgba(0, 0, 0, 0.49); */
 }
 
 .col-inner {
@@ -78,7 +78,7 @@ a.enlaces-block:hover {
 	background: #38a5de;
 	padding: 0;
 	color: #fff;
-	box-shadow: 3px 0px 20px 4px rgba(0, 0, 0, 0.49);
+	/* box-shadow: 3px 0px 20px 4px rgba(0, 0, 0, 0.49); */
 }
 
 #me {
@@ -155,7 +155,7 @@ a.btn-custom:hover {
 	background: #fff;
 	margin: 1em;
 	border-radius: 0.25em;
-	box-shadow: 5px 6px 20px 4px rgba(0, 0, 0, 0.49);
+	/* box-shadow: 5px 6px 20px 4px rgba(0, 0, 0, 0.49); */
 }
 
 .exp-cursos {
