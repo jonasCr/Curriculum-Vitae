@@ -126,6 +126,8 @@ a.enlaces-block:hover {
 .progress-vuejs,
 .progress-c,
 .progress-dart,
+.progress-sql,
+.progress-ts,
 .progress-es {
 	height: 5px;
 	background: #c4c6da;
